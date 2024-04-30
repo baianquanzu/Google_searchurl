@@ -14,4 +14,4 @@
 直接找到文件存储目录运行cmd输入：Google_searchurl.exe </br>
 ![image](https://github.com/baianquanzu/Google_searchurl/assets/47970894/18a09c4f-0ad4-460e-b853-cbf6f2d7dc74)  </br>
 这里可以设置你的爬取数量和代理，这里代理默认是http的，也可以设置socks5</br>
-<h1>使用之前记得挂上梯子，否则谷歌搜索是无法使用的，或者设置可以谷歌搜索的代理！！！</h1>
+<h1>使用之前记得挂上梯子，否则谷歌搜索是无法使用的，或者设置可以谷歌搜索的代理！！！</br>请勿用于违法用途，交流可进群：70844080</h1>
