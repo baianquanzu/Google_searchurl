@@ -7,7 +7,7 @@
     运行：</br>
     go env -w GO111MODULE=on</br>
     go mod init xxx //xxx代表文件名</br>
-    可以直接编译：go build -o crawl_urls.exe url.go
+    可以直接编译：go build -o  crawl_urls.exe url.go
   </br>
 
 直接使用exe文件：</br>
